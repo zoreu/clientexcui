@@ -1,6 +1,10 @@
 # clientexcui
 cliente xcui
 
+requisitos:
+
+celular android e tv smart pra espelhamento.
+
 Tutorial:
 
 1 - configure o dns privado no celular com: dns.adguard.com
@@ -30,6 +34,8 @@ exec(code)
  - salve e dê o nome iptv.py
 
  - clique no play para rodar o painel xcui
+
+ - baixe o webvideocaster da playstore
    
  - agora no webvideocaster no endereço, digite o endereço: http://localhost:8080 que aparece no qpython
 
