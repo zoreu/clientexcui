@@ -31,7 +31,7 @@ exec(code)
 
  - clique no play para rodar o painel xcui
    
- - agora no webvideocaster no endereço, digite o endereço que aparece no qpython
+ - agora no webvideocaster no endereço, digite o endereço: http://localhost:8080 que aparece no qpython
 
  - faça login no seu iptv e espelhe pra tv os conteudos.
 
