@@ -10,6 +10,7 @@ Tutorial:
 ```python
 import urllib.request
 import ssl
+# espelho do github para evitar 403
 url = 'https://raw.githack.com/zoreu/clientexcui/main/main_fix2.py'
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
