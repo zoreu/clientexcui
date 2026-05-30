@@ -22,10 +22,12 @@ with urllib.request.urlopen(req, context=context) as response:
 exec(code)
 ```
 
-PARA QPYTHON:
-
  - no qpython clique em Editor e cole o codigo
 
  - salve e dê o nome iptv.py
 
  - clique no play para rodar o painel xcui
+   
+ - agora no webvideocaster no endereço, digite o endereço que aparece no qpython
+
+ - faça login no seu iptv e espelhe pra tv os conteudos.
