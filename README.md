@@ -3,9 +3,11 @@ cliente xcui
 
 Tutorial:
 
-1 - baixe o qpython+ no celular
+1 - configure o dns privado no celular com: dns.adguard.com
 
-2 - copie o codigo abaixo
+2 - baixe o qpython+ no celular
+
+3 - copie o codigo abaixo
 
 ```python
 import urllib.request
